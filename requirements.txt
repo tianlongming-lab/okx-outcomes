@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+websockets
+python-dotenv
+eth-account
+eth-utils
+msgpack
+pydantic
